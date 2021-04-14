@@ -1,2 +1,2 @@
-# sofware
+# software
 software
